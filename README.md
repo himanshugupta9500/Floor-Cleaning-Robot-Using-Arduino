@@ -55,6 +55,11 @@ provide efficient cleaning system both at ground and as well as window levels.
 • This contemporary design helps to overcome the limitations of the existing technologies 
 and surpass them in terms of robot capability, modularity and payload.
 
+***Video_Demonstration***:
+
+https://www.linkedin.com/posts/himanshu-gupta-627a15204_design-engineering-manufacturing-activity-6819185443540750336-PPeN/
+
+
 ***_Future Work:_***
 
 • We can control it through mobile via bluetooth sensor through which a user can 
