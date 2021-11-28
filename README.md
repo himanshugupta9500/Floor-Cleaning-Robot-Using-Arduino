@@ -43,7 +43,8 @@ output pulse width will be smaller.
 • Since a scrubber is connected the motor and hence as the robot moves the scrubber 
 rotates and dust is adsorbed on the surface of the scrubber.
 
-Conclusion:
+***Conclusion:***
+
 • This research facilitates efficient floor cleaning with sweeping and mopping operations. 
 This robot works in two modes automatic and manual for user convenience. The model 
 we proposed is working in automatic mode once instantiated. This proposed work 
@@ -55,6 +56,7 @@ provide efficient cleaning system both at ground and as well as window levels.
 and surpass them in terms of robot capability, modularity and payload.
 
 ***_Future Work:_***
+
 • We can control it through mobile via bluetooth sensor through which a user can 
 command the movement of the robot.
 • We can also add a dust collector along with the cleaner and hence it will create suction 
@@ -63,7 +65,8 @@ and acts like a automatic vaccum cleaner.
 using a high quality on board camera.
 • Germ less cleaning using UV exposure installed on the vehicle
 
-_References:_
+***_References:_***
+
 • Jens-Steffen Gutmann , Kristen Culp , Mario E. Munich and Paolo Pirjanian. The Social 
 Impact of a Systematic Floor Cleaner . In IEEE international workshop on advance robotics an 
 its social impacts , Technische University munchen, Germany May 21- 23,2012
